@@ -1,0 +1,39 @@
+header{
+	background-color: #ADD8E6;
+	text-align: center;
+	padding: 10px;
+}
+
+nav,
+footer {
+  background-color: #2F4F4F;
+}
+
+footer{
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+
+nav ul li a.nav-link {
+  color: white;
+  border-right: 1px solid #333333;
+}
+
+.col1{
+	background-color: #AAAAAA;
+}
+
+.col2{
+	background-color: #BBBBBB;
+}
+
+.col3{
+	background-color: #CCCCCC;
+}
+
+.col1,
+.col2,
+.col3 {
+  height: 250px;
+}
